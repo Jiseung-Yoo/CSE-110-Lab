@@ -26,4 +26,4 @@ That was the beginning of my journey to UCSD**
 ![Image](https://media.makeameme.org/created/too-many-things-592d67.jpg)
 
 ###### Relative Link Practice
-/relative.png
+[asd](relative.png)
