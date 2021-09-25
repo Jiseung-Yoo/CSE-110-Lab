@@ -1,3 +1,4 @@
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7wECbfPg_F3eIQgQ2Rfm_H0BCHGP-P5MyA&usqp=CAU)
 # Jiseung Yoo's User Page
 ## Goal as a programmer
 - make a lot of money
