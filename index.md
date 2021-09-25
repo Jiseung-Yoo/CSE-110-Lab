@@ -1,5 +1,7 @@
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7wECbfPg_F3eIQgQ2Rfm_H0BCHGP-P5MyA&usqp=CAU)
 # Jiseung Yoo's User Page
+
+> Hakuna Matata
 ## Goal as a programmer
 - make a lot of money
 - make a GOTY game
