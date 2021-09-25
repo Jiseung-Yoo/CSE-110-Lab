@@ -10,13 +10,20 @@
 - become a lead developer in a team
 
 ## Reason why I want to become a game developer
-'''
+
 **Since when I was young, I loved to play a lot of games.I've played numerious amounts of games 
 and have probably spent more than 10 grand ~~About one used car~~ at just buying games. 
 Looking at those games, I started to find myself getting interested in making games. 
 That was the beginning of my journey to UCSD**
-'''
 
+## Things that I like
+These are the things that I love
+```
+Game
+Food
+Money
+Tennis
+```
 ## My Values
 1. God
 2. Family
