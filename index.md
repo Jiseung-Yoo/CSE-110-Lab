@@ -1,6 +1,15 @@
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7wECbfPg_F3eIQgQ2Rfm_H0BCHGP-P5MyA&usqp=CAU)
 
-[Link to my User Page](#Goal-as-a-programmer)
+**Table Of Content**
+[Goal](#Goal-as-a-programmer)
+
+[Reasons](#Reason-why-I-want-to-become-a-game-developer)
+
+[What I Like](Things-that-I-like)
+
+[My Values](My-Values)
+
+[What I should do](Things-that-I-should-do)
 
 # Jiseung Yoo's User Page
 
