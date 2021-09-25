@@ -1,7 +1,8 @@
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7wECbfPg_F3eIQgQ2Rfm_H0BCHGP-P5MyA&usqp=CAU)
 # Jiseung Yoo's User Page
 
-> Hakuna Matata
+> Call me Yoo (pronounced You)
+
 ## Goal as a programmer
 - make a lot of money
 - make a GOTY game
@@ -9,10 +10,12 @@
 - become a lead developer in a team
 
 ## Reason why I want to become a game developer
+'''
 **Since when I was young, I loved to play a lot of games.I've played numerious amounts of games 
 and have probably spent more than 10 grand ~~About one used car~~ at just buying games. 
 Looking at those games, I started to find myself getting interested in making games. 
 That was the beginning of my journey to UCSD**
+'''
 
 ## My Values
 1. God
