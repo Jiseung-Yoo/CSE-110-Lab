@@ -24,3 +24,6 @@ That was the beginning of my journey to UCSD**
 - [ ] Be in an intership
 
 ![Image](https://media.makeameme.org/created/too-many-things-592d67.jpg)
+
+###### Relative Link Practice
+/relative.png
